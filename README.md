@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=timeAuto&text=WooGi&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=23.06.21~&descAlignY=70)
 <div align="center">
+![header](https://capsule-render.vercel.app/api?type=Waving&color=timeAuto&text=WooGi&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=23.06.21~&descAlignY=70)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WooGi1020&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=WooGi1020&show_icons=true">
 </div>
