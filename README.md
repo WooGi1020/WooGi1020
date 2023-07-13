@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=WooGi's Git&fontSize=90" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WooGi1020&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=WooGi1020&show_icons=true">
+
 <!--
 **WooGi1020/WooGi1020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
