@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=timeAuto&text=WooGi's Code&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=23.06.21~&descAlignY=70)
 
 <!--
 **WooGi1020/WooGi1020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
