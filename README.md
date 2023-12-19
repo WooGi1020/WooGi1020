@@ -1,8 +1,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeAuto&text=WooGi&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=23.06.21~&descAlignY=70)
-<script src="https://kit.fontawesome.com/f284e76b1d.js" crossorigin="anonymous"></script>
-<div class = "icon" align = "center">
-  <i class="fa-brands fa-html5"></i>
+
+<div align = "center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
 
 <!--
 **WooGi1020/WooGi1020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
