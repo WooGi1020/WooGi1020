@@ -1,5 +1,6 @@
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=timeAuto&text=WooGi&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=23.06.21~&descAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=venom&height=150&color=timeAuto&text=WooGi&fontAlignY=45&fontSize=40&textBg=false&fontColor=timeAuto&desc=23.06.21~&descAlignY=70)
+         <!-- https://capsule-render.vercel.app/api?type=Waving&color=timeAuto&text=WooGi&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=23.06.21~&descAlignY=70 -->
 <br><br>
 <div align = "center">
  📱Language : <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
