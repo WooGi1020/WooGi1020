@@ -9,7 +9,10 @@
  📖CSS Framework : <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"><br>
  📖JS Framework : <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"><br><br>
  🔧Tool : <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-
+         <br>
+         <br>
+         <img src="https://github-readme-stats.vercel.app/api?username=WooGi1020&hide=stars,contribs&show_icons=true&theme=gotham&count_private=true" />
+</div>
 <!--
 **WooGi1020/WooGi1020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
