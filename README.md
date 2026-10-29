@@ -4,14 +4,6 @@
 
 ### Frontend Engineer
 
-실시간 스트리밍 UI, 클라이언트 SDK, 사람과 에이전트가 함께 쓰는 업무 도구, 디자인 시스템을 만듭니다.<br>
-설계와 검증 기준을 먼저 정하고, 구현은 AI 에이전트와 함께 진행합니다.
-
-[![Blog](https://img.shields.io/badge/Blog-keyboard--hit--blog-2457d6?style=for-the-badge&logo=vercel&logoColor=white)](https://keyboard-hit-blog.vercel.app)
-[![About](https://img.shields.io/badge/About-%EC%BB%A4%EB%A6%AC%EC%96%B4%20%C2%B7%20%EC%82%AC%EB%A1%80%20%EA%B8%80-1b1f27?style=for-the-badge&logo=readme&logoColor=white)](https://keyboard-hit-blog.vercel.app/about)
-
-<br>
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -24,9 +16,5 @@
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-
-<br>
-
-<img src="https://streak-stats.demolab.com/?user=WooGi1020&hide_border=true&theme=default&locale=ko" alt="GitHub streak" height="165" />
 
 </div>
