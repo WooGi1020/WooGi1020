@@ -27,7 +27,6 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=WooGi1020&show_icons=true&count_private=true&hide=stars&hide_border=true&theme=default&locale=kr" alt="GitHub stats" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=WooGi1020&hide_border=true&theme=default&locale=ko" alt="GitHub streak" height="165" />
+<img src="https://streak-stats.demolab.com/?user=WooGi1020&hide_border=true&theme=default&locale=ko" alt="GitHub streak" height="165" />
 
 </div>
