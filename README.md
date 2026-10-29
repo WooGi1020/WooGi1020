@@ -1,24 +1,8 @@
-
 ![header](https://capsule-render.vercel.app/api?type=venom&height=150&color=timeAuto&text=WooGi&fontAlignY=45&fontSize=40&textBg=false&fontColor=timeAuto&desc=23.06.21~&descAlignY=70)
-         <!-- https://capsule-render.vercel.app/api?type=Waving&color=timeAuto&text=WooGi&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=23.06.21~&descAlignY=70 -->
-<!-- <br><br>
 
-<br>
-</div>
-<div align = "center">
- <img src="https://github-readme-stats.vercel.app/api?username=WooGi1020&hide=stars,contribs&show_icons=true&theme=gotham&count_private=true" />
+### Frontend Engineer
 
-<!--
-**WooGi1020/WooGi1020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+실시간 스트리밍 UI, 클라이언트 SDK, 사람과 에이전트가 함께 쓰는 업무 도구, 디자인 시스템을 만듭니다.
+설계와 검증 기준을 먼저 정하고, 구현은 AI 에이전트와 함께 진행합니다.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+블로그 [keyboard-hit-blog.vercel.app](https://keyboard-hit-blog.vercel.app) · 커리어와 사례 글은 [About](https://keyboard-hit-blog.vercel.app/about)
